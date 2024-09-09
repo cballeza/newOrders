@@ -18,7 +18,7 @@ public class sandwichApp {
 		while (newOrder) {
 			System.out.println("==== Select Sandwich Bread: ==== ");
 			System.out.println("1 White Bread:   $1.5\n" + "2 Wheat Bread:   $1.6\n" + "3 French Bread:  $1.8\n"
-					+ "4 Organic Bread: $2.0\n");
+					+ "4 Organic Bread: $2.0\n"); //user selects bread type
 
 			int breadSelect;
 			System.out.println("Select a bread from 1 to 4");
