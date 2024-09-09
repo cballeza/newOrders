@@ -1,0 +1,8 @@
+Aug 31, 2024, 4:00:51 PM	John Smith	White Bread	green peppers	Turkey Breast	$2.95
+Aug 31, 2024, 6:07:24 PM	John Smith	White Bread	green peppers	Roast Beef	$3.25
+Aug 31, 2024, 6:09:57 PM	John Smith	Wheat Bread	green peppers	Turkey Breast	$3.05
+Aug 31, 2024, 6:14:13 PM	John Smith	Wheat Bread	green peppers, tomatoes	Roast Beef	$3.65
+Aug 31, 2024, 6:41:21 PM	John Smith	Wheat Bread	lettuce, green peppers	Turkey Breast	$3.25
+Aug 31, 2024, 6:44:13 PM	John Smith	Wheat Bread	pickes, green peppers	Turkey Breast	$3.15
+Aug 31, 2024, 6:46:26 PM	John Smith	Wheat Bread	pickes, lettuce	Turkey Breast	$3.10
+Sep 1, 2024, 11:10:27 PM	John Smith	Wheat Bread	green peppers, tomatoes	Turkey Breast	$3.35
